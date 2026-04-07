@@ -5,7 +5,7 @@
   "clientId": "eU9mGLVOg9EdgLpx",
   "itemId": "f3992251c0d94f119f5d632b4ea1cf98",
   "surveyInternetQuestion": "begin_speedTest",
-  "ooklaUrl": "lackawannasurvey.dualstack.speedtestcustom.com",
+  "ooklaUrl": "https://www.lackawannasurvey.dualstack.speedtestcustom.com",
   "redirectOnSubmitUrl": null,
   "questionValue": {
     "max_distance": 100
