@@ -3,7 +3,7 @@
   "description": "Test and submit your current internet connection speed.",
   "portalUrl": "https://www.arcgis.com",
   "clientId": "Fg2pigWc0fjM5xGp",
-  "itemId": "f3992251c0d94f119f5d632b4ea1cf98",
+  "itemId": "528fa2da2dbb4fcba1a02a68efddc032",
   "surveyInternetQuestion": "begin_speedTest",
   "ooklaUrl": "https://www.lackawannasurvey.dualstack.speedtestcustom.com",
   "redirectOnSubmitUrl": null,
