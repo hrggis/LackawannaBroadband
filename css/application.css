@@ -24,6 +24,14 @@ body {
   overflow-x: hidden;
 }
 
+#ookla-container {
+  width: 100%;
+  min-height: 100vh;
+  overflow-y: auto;
+  overflow-x: hidden;
+  /*overflow: hidden;*/
+}
+
 #ookla-panel {
   width: 100%;
   min-height: 100vh;
