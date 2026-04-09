@@ -129,7 +129,7 @@ class Application extends Configurable {
       portalUrl: this.config.portalUrl,
       clientId: this.config.clientId,
       itemId: this.config.itemId,
-      autoRefresh: hasValidRedirectURL ? 0 : 3,
+      //autoRefresh: hasValidRedirectURL ? 0 : 3,
       questionValue: this.config.questionValue,
       onFormLoaded: (data) => {
         //console.info('onFormLoaded: ', data, survey123WebForm);
